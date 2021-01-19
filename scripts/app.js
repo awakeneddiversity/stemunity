@@ -15,7 +15,7 @@
 
     // Check the meal intake input
     $scope.searchDB = function() {
-
+      console.log($scope.searchItem);
     }
   };
 
